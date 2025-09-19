@@ -31,12 +31,6 @@ class Rectangle extends Shape {
      return length * width;
  }
 }
-
-
-
-
-
-
 public class main {
 
 	public static void main(String[] args) {
@@ -51,3 +45,4 @@ public class main {
 	}
 
 }
+
